@@ -36,3 +36,6 @@ python Human_Action_Detection.py
 ## 🙌 Author
 
 Deepak Gupta
+
+## 📌 Note
+This project was built as part of my learning from the IBM Machine Learning course.
